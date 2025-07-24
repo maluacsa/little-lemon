@@ -6,3 +6,4 @@ Untracked files:
         newfile.txt 
 
 nothing added to commit but untracked files present (use "git add" to track) 
+Una breve descripcion del primer archivo subido desde GIT en Window
